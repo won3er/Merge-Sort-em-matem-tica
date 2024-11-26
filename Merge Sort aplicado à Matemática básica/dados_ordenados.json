@@ -1,0 +1,98 @@
+[
+    {
+        "nome": "Adição",
+        "dificuldade": 1,
+        "grupo": "Fundamentos",
+        "numero": 1
+    },
+    {
+        "nome": "Divisão",
+        "dificuldade": 1,
+        "grupo": "Fundamentos",
+        "numero": 2
+    },
+    {
+        "nome": "Multiplicação",
+        "dificuldade": 1,
+        "grupo": "Fundamentos",
+        "numero": 3
+    },
+    {
+        "nome": "Subtração",
+        "dificuldade": 1,
+        "grupo": "Fundamentos",
+        "numero": 4
+    },
+    {
+        "nome": "Equação de Segundo Grau",
+        "dificuldade": 2,
+        "grupo": "Álgebra",
+        "numero": 5
+    },
+    {
+        "nome": "Frações",
+        "dificuldade": 2,
+        "grupo": "Álgebra",
+        "numero": 6
+    },
+    {
+        "nome": "Geometria Básica",
+        "dificuldade": 2,
+        "grupo": "Geometria",
+        "numero": 7
+    },
+    {
+        "nome": "Potenciais",
+        "dificuldade": 2,
+        "grupo": "Álgebra",
+        "numero": 8
+    },
+    {
+        "nome": "Progressão Aritmética",
+        "dificuldade": 2,
+        "grupo": "Aritmética",
+        "numero": 9
+    },
+    {
+        "nome": "Progressão Geométrica",
+        "dificuldade": 2,
+        "grupo": "Aritmética",
+        "numero": 10
+    },
+    {
+        "nome": "Análise Combinatória",
+        "dificuldade": 3,
+        "grupo": "Probabilidade",
+        "numero": 11
+    },
+    {
+        "nome": "Derivada",
+        "dificuldade": 3,
+        "grupo": "Cálculo",
+        "numero": 12
+    },
+    {
+        "nome": "Estatística Básica",
+        "dificuldade": 3,
+        "grupo": "Estatística",
+        "numero": 13
+    },
+    {
+        "nome": "Integral",
+        "dificuldade": 3,
+        "grupo": "Cálculo",
+        "numero": 14
+    },
+    {
+        "nome": "Logaritmos",
+        "dificuldade": 3,
+        "grupo": "Álgebra",
+        "numero": 15
+    },
+    {
+        "nome": "Trigonometria",
+        "dificuldade": 3,
+        "grupo": "Geometria",
+        "numero": 16
+    }
+]
